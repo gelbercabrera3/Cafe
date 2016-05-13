@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Lab_1</string>
+    <string name="app_name">Cafetería</string>
+    <string name="txt_preguta">¿Cuantas tazas de café desea?</string>
+    <string name="btn_pedir">Pedir</string>
 </resources>
